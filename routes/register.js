@@ -1,10 +1,10 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET login page. */
+/* GET register page. */
 router.get('/', function(req, res, next) {
-  const title = 'Login Page';
-  res.render('login', { title });
+  const title = 'Register Page';
+  res.render('register', { title });
 });
 
 module.exports = router;
