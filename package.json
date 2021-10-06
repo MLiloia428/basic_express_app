@@ -14,7 +14,7 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
   },
-  "main": "app.js",
+  "main": "server.js",
   "devDependencies": {},
   "author": "Nikita Tomkevich",
   "license": "ISC",
