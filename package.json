@@ -18,5 +18,5 @@
   "devDependencies": {},
   "author": "Nikita Tomkevich",
   "license": "ISC",
-  "description": "Basic express app serving some HTML"
+  "description": "Basic express app starter with ejs"
 }
