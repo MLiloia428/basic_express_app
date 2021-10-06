@@ -17,3 +17,9 @@ Run dev:
 `
 npm run dev
 `
+
+Open browser at:
+
+`
+localhost:3000
+`
