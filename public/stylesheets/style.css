@@ -6,8 +6,19 @@ body {
 a {
   color: #00B7FF;
   padding: 10px;
+  text-decoration: none;
 }
 
 .section {
   padding: 5px;
+}
+
+.color-success {
+  color: green;
+}
+.color-error {
+  color: red;
+}
+.color-warning {
+  color: orange;
 }
