@@ -18,7 +18,7 @@ npm install
 npm run dev
 `
 
-#### Open browser at:
+#### Browse app at:
 
 `
 localhost:3000
