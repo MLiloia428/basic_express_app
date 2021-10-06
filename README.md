@@ -12,7 +12,7 @@ Install dependencies:
 npm install
 `
 
-Run dev:
+Start app:
 
 `
 npm run dev
