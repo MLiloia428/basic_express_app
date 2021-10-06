@@ -16,7 +16,7 @@
   },
   "main": "app.js",
   "devDependencies": {},
-  "author": "",
+  "author": "Nikita Tomkevich",
   "license": "ISC",
-  "description": "Basic express app to serve some HTML"
+  "description": "Basic express app serving some HTML"
 }
