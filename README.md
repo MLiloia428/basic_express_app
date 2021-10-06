@@ -1,4 +1,5 @@
 # Basic Express App Starter
+- Built with [express-generator](https://www.npmjs.com/package/express-generator)
 
 ## To clone app:
 `
