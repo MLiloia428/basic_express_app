@@ -12,13 +12,13 @@ git clone https://github.com/ntomkevich/basic_express_app.git
 npm install
 `
 
-1) Start app:
+2) Start app:
 
 `
 npm run dev
 `
 
-1) Open browser at:
+3) Open browser at:
 
 `
 localhost:3000
