@@ -1,4 +1,4 @@
-# Basic Express App
+# Basic Express App Starter
 
 ## To clone app:
 `
@@ -6,19 +6,19 @@ git clone https://github.com/ntomkevich/basic_express_app.git
 `
 
 ## To run app:
-Install dependencies:
+1) Install dependencies:
 
 `
 npm install
 `
 
-Start app:
+1) Start app:
 
 `
 npm run dev
 `
 
-Open browser at:
+1) Open browser at:
 
 `
 localhost:3000
